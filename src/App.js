@@ -9,9 +9,9 @@ export default function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <main>
-        <h2>What word do you want to look up?</h2>
+        <h1>DICTIONARY</h1>
 < br/>
-        <Dictionary />
+        <Dictionary defaultKeyword="smile"/>
       </main>
       <div className="container">
         <div className="row">
