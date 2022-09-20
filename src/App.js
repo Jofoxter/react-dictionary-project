@@ -13,6 +13,7 @@ export default function App() {
 < br/>
         <Dictionary defaultKeyword="smile"/>
       </main>
+  <hr></hr>
       <div className="container">
         <div className="row">
           <div className="col-12 text-center">
